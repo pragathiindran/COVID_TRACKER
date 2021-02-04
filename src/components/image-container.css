@@ -1,0 +1,10 @@
+
+.image-container:hover{
+    transform: scale(1.1);
+  transition-duration: 1000ms;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
