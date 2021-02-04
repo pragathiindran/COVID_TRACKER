@@ -1,0 +1,2 @@
+.card-list{width:80vw;margin-left:15px;margin-top:30px;margin-bottom:100px;display:grid;grid-template-columns:1fr 1fr 1fr 1fr;grid-gap:25px;padding:10px}.card-container{display:flex;flex-direction:column;background-color:#fff;border:1px solid #daa520;border-radius:5px;padding:0;cursor:pointer;-moz-osx-font-smoothing:grayscale;-webkit-backface-visibility:hidden;backface-visibility:hidden;transform:translatez(0);transition:transform .5 ease-out}.card-container:hover{transform:scale(1.01);transition-duration:.5s}
+/*# sourceMappingURL=8.d79eed79.chunk.css.map */
